@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante de Sistemas para Internet.<br>⚡ Entusiasta da tecnologia.<br>🤝 Amante do desenvolvimento web  e mobile.
+🔭 Estudante de Análise e desenvolvimento de sistemas.<br>⚡ Entusiasta da tecnologia.<br>🤝 Amante do desenvolvimento web  e mobile.
 
 
 # 💻 Tech Stack:
